@@ -27,7 +27,7 @@ docker build -t receipt-processor:1.0 .
 ### Step 3: Run the Docker Container
 
 ```bash
-docker run -d -p 8000:8000 receipt-processor
+docker run -d -p 8000:8000 receipt-processor:1.0
 ```
 
 ### Step 4: API Endpoints
