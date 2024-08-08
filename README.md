@@ -136,3 +136,11 @@ FastAPI automatically generates interactive API documentation. You can access it
 
 Swagger UI: http://localhost:8000/docs
 ReDoc: http://localhost:8000/redoc
+
+## Cloud Link
+
+Deployed on GCP - Cloud Run
+
+```bash
+https://receipt-engine-fgksoy3vwq-uc.a.run.app/
+```
